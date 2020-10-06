@@ -1,0 +1,71 @@
+
+#addRole .containerStyle {
+    margin: 30px 20px
+}
+
+#addRole .roleText {
+    color: #333951; 
+    font-size: 20px
+}
+
+#addRole .permissionText {
+    color: #333951; 
+    font-size: 16px; 
+    margin-top: 34px
+}
+
+#addRole .searchText {
+    font-size: 12px;
+    color: #C0C0C0;
+}
+
+#addRole .inputText {
+    border: 2px solid #A0A7B440; 
+    height:40px; 
+    border-radius: 8px; 
+    width: 400px; 
+    padding-left: 10px;
+    font-size: 14px;
+    border-color: #A0A7B440;
+}
+
+#addRole .listHeader {
+    background-color: #F7F7F7; 
+    padding: 10px 20px; 
+    font-size: 14px
+}
+
+#addRole .CheckBox {
+    color: #343A52; 
+    margin-left: 10px;
+}
+
+#addRole .li-checkBoxText {
+    font-size: 13px;
+    color: #333951
+}
+
+#addRole .buttonAlign {
+    margin-top: 20px;
+    float: right;
+}
+
+#addRole .buttonCancel {
+    background-color: #EE2219; 
+    color: white; 
+    font-size: 13px; 
+    padding: 10px 20px; 
+    border-radius: 10px; 
+    border: none; 
+    margin-left: 10px; 
+    /* float:right */
+}
+
+#addRole .buttonUpdate {
+    background-color: #343A52; 
+    color: white; 
+    font-size: 13px; padding: 10px 25px; 
+    border-radius: 10px; 
+    border: none; 
+    /* float:right */
+}

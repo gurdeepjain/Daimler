@@ -1,0 +1,58 @@
+
+#role .role-text{
+    font-size: 18px; 
+    color:#333951;
+}
+
+#role .body {
+    margin: 0px 35px
+}
+
+ #role .add-Text {
+    font-size: 15px; 
+    text-decoration: none;
+    color:#333951;
+    padding-top: 5px;
+}
+
+#role .image-box {
+    width:31px; 
+    height:31px; 
+    background-color:#EE2219; 
+    border-radius:10px
+}
+
+#role .moduleInputBox {
+    background-color:#F6F6F6; 
+    border-radius: 10px
+}
+
+#role .inputBox-container {
+    margin-top: 25px;
+    padding: 20px 40px 30px 40px;
+}
+
+#role .statusText {
+    margin-top: 60px;  
+    margin-left: 30px;
+    
+}
+
+#role .inputText {
+    border: none; 
+    height:40px; 
+    border-radius: 8px; 
+    width: 350px; 
+    padding-left: 10px;
+    font-size: 14px;
+}
+
+#role .aggregateText {
+    color: #C0C0C0;
+    font-size: 12px
+}
+
+#role .searchText {
+    font-size: 12px;
+    color: #C0C0C0;
+}

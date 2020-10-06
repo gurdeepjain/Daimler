@@ -1,0 +1,55 @@
+#accessAdd .containerView {
+    margin: 20px 30px
+}
+
+#accessAdd .role-text{
+    font-size: 18px; 
+    color:#333951;
+}
+
+#accessAdd .moduleInputBox {
+    background-color:#F6F6F6; 
+    border-radius: 10px
+}
+
+#accessAdd .inputBox-container {
+    margin-top: 10px;
+    padding: 10px 25px ;
+}
+
+#accessAdd .searchText {
+    font-size: 12px;
+    color: #C0C0C0;
+}
+
+#accessAdd .inputText {
+    border: none; 
+    height:40px; 
+    border-radius: 8px; 
+    width: 290px; 
+    padding-left: 10px;
+    font-size: 13px;
+}
+
+#accessAdd .buttonAlign {
+    margin-top: 20px;
+    float: right;
+}
+
+#accessAdd .buttonCancel {
+    background-color: #EE2219; 
+    color: white; 
+    font-size: 13px; 
+    padding: 10px 20px; 
+    border-radius: 10px; 
+    border: none; 
+    margin-left: 10px; 
+}
+
+#accessAdd .buttonUpdate {
+    background-color: #343A52; 
+    color: white; 
+    font-size: 13px; padding: 10px 25px; 
+    border-radius: 10px; 
+    border: none; 
+}
